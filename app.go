@@ -11,7 +11,7 @@ import (
 )
 
 // For HMAC signing method, the key can be any []byte. It is recommended to generate
-// a key using crypto/rand or something equivalent. You need the same key for signing
+// a key using crypto/rand or something equivalent. You need the same key for signing   
 // and validating.
 var hmacSampleSecret []byte
 
