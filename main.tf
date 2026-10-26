@@ -1,4 +1,4 @@
-module "sub-cloudfront" {
+module "sub-cloudfront" { 
   source = "./sub-cloudfront"
 }
 
